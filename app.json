@@ -1,9 +1,9 @@
 {
     "name": "Naya Pyro",
     "description": "Nothing Speciall !!!.",
-    "logo": "https://telegra.ph//file/75acabea0a9cc6679c2d4.jpg",
+    "logo": "https://telegra.ph/file/ff055eb28f771806b7d50.jpg",
     "keywords": ["telegram", "userbot", "pyrogram"],
-    "repository": "https://github.com/naya1503/Naya-Pyro",
+    "repository": "https://github.com/Malik22222/fairy",
     "stack": "container",
     "env": {
         "SESSION1": {
