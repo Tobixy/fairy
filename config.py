@@ -25,7 +25,7 @@ ADMIN4_ID.append(5657257558)
 
 MONGO_URL = getenv("MONGO_URL", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-BOT_WORKERS = int(getenv("BOT_WORKERS", "2"))
+BOT_WORKERS = int(getenv("BOT_WORKERS", "1"))
 USER_WORKERS = int(getenv("BOT_WORKERS", "8"))
 PM_AUTO_BAN = strtobool(getenv("PM_AUTO_BAN", "True"))
 ALIVE_PIC = getenv("ALIVE_PIC")
