@@ -27,8 +27,7 @@
 
 - [Tomi Setiawan](https://github.com/XtomiX)
 
-- [Malik]
-(https://github.com/Malik22222) 
+- [Malik](https://github.com/Malik22222)
 
 ## Credit 💖
 
