@@ -27,6 +27,9 @@
 
 - [Tomi Setiawan](https://github.com/XtomiX)
 
+- [Malik]
+(https://github.com/Malik22222) 
+
 ## Credit 💖
 
 - Zaid Userbot
@@ -48,4 +51,5 @@
 - Tomi Setiawan
 
 - Xtsea
-# fairy
+
+- fairy
