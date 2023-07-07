@@ -15,7 +15,6 @@ aiofiles==22.1.0
 bs4
 emoji==1.6.0
 gitpython
-httpx[http2]
 humanize
 gtts
 pykeyboard
