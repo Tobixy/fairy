@@ -28,15 +28,13 @@ PM_LOGGER = getenv("PM_LOGGER", None)
 OPENAI_API = getenv("OPENAI_API", "")
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
 BLACKLIST_GCAST = {int(x) for x in getenv("BLACKLIST_GCAST", "-1001566281443").split()}
-GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-BRANCH = getenv("BRANCH", "fairy") #don't change
-REPO_URL = getenv("REPO_URL", "https://github.com/Malik22222/fairy")
+GIT_TOKEN = getenv("GIT_TOKEN") #personalaccesHEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_APP_NAME = getenv("HEROKU_APP
+BRANCH = getREPO_URL = getenv("REPO_URL", "https://github.com/Malik22222/fairy")
 CMD_HNDLR = getenv("CMD_HNDLR", ".")
 SUPPORT = int(getenv("SUPPORT", "-1001849819947"))
 CHANNEL = int(getenv("CHANNEL", "-1001849819947"))
-SESSION1 = getenv("SESSION1", "BQHCsXoAujKVhqz7ojfjvuBIAiVdJlwrzKV0iVVbql3MfLj4b3jEGXGvVXaOt9y0I2ZMxjXQpAih_FoS7uw0gmL6W9rsh-3OR5TsnGjVcNbtllBSNB1Z1TjgMAPEb13fCTTNJhmq9D2h_3mfNSWUIsPQSfYHCzm-w4I7S4hPdrlaPD90sg5Gx0_1dgQF6r_xUPi0WGKOTts0w8cCcGWqZ-5dsBuaL4xWzS9HIeu7BJYlOO9uLwRFkD0rc5ucDurRFrA7bdW1ZohOEqoe-R3H3ZK4kMwuWtlvxfovH4xCzzPa3I96FdzEaTHMWmS34a0zrivdjH9oAPe-vyhkcOu0djPsiINV6AAAAAFbVp64AA")
+SESSION1 = getenv("SESSION1","BQCN3swKrFxETNV8SyWvUHfFDMPMDLHVPsLdc4q57S9e8zGkmGaI7MPmLyo3wCTlhjLiUlPVrXOGY_M4HB0SD0HqKKgaeG6pr5E0xtIaZ1153di5AtLXrjEyQBKUJqno5Gn0qzyO3Grv_ydcbZMt29oC44mqgWGk6wzK96Eu6a3TBJdDKXxGeBK4r2em5UKM8_jZdFprXwmYsvJNcREn-cwssCqlRKnJQC7W96jaWI5BzIrkn38ZGsbracBLhRBkN1frrcZwPzQEaKNmCIbZ_7qlfY_acv0xl24NIq7neqbIJsgA6MIdOmLB6ROS5Th57KpdZ-FSe5NA-aTBSc_1xvKKAAAAAVtWnrgA")
 SESSION2 = getenv("SESSION2", "")
 SESSION3 = getenv("SESSION3", "")
 SESSION4 = getenv("SESSION4", "")
