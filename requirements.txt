@@ -3,8 +3,7 @@ gunicorn
 gpytranslate
 googletrans
 pytgcalls==3.0.0.dev24
-openai
-uvloop
+openai 
 ffmpeg-python
 git+https://github.com/yt-dlp/yt-dlp.git
 youtube-search
