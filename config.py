@@ -28,7 +28,8 @@ PM_LOGGER = getenv("PM_LOGGER", None)
 OPENAI_API = getenv("OPENAI_API", "")
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
 BLACKLIST_GCAST = {int(x) for x in getenv("BLACKLIST_GCAST", "-1001566281443").split()}
-GIT_TOKEN = getenv("GIT_TOKEN") #personalaccesHEROKU_API_KEY = getenv("HEROKU_API_KEY")
+GIT_TOKEN = getenv("GIT_TOKEN") #personalacces
+HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 BRANCH = getREPO_URL = getenv("REPO_URL", "https://github.com/Malik22222/fairy")
 CMD_HNDLR = getenv("CMD_HNDLR", ".")
