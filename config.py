@@ -17,12 +17,6 @@ ADMIN2_ID = list(map(int, getenv("ADMIN2_ID", "1715348447").split()))
 ADMIN3_ID = list(map(int, getenv("ADMIN2_ID", "5633133204").split()))
 ADMIN4_ID = list(map(int, getenv("ADMIN2_ID", "5657257558").split()))
 
-
-ADMIN1_ID.append(6080624164
-ADMIN2_ID.append(171534844
-ADMIN3_ID.append(5633133
-ADMIN4_ID.append(5657257558
-
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://mex:rex@cluster7.jrzowqz.mongodb.net/?retryWrites=true&w=majority")
 BOT_TOKEN = getenv("BOT_TOKEN", "6103019135:AAHsZsIcBkueu7CAm1BMUp7C3976U5J97Js")
 BOT_WORKERS = int(getenv("BOT_WORKERS", "1"))
